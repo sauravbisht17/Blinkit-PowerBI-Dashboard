@@ -72,12 +72,3 @@
 **Tool:** Powerbi
 
 **UI:** Figma
-
-
-## 🔗 Links
-
-linkedin:
-https://www.linkedin.com/in/sai-nikhil-jallepalli-8b082b220/
-
-
-GitHub: https://github.com/Jallepalli-Sai-Nikhil
